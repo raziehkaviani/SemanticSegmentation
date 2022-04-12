@@ -17,8 +17,8 @@ The code uses the following datasets:
 4. Indian Driving Dataset (IDD)
 
 ## Pretrained models
-The pretrained DeeplabV3+ on BDD100K dataset [model](https://drive.google.com/file/d/1iMIqeu12jcT2CxBZjplKxXt843_seE3x/view?usp=sharing)
-The pretrained DeeplabV3+ on Indian Driving Dataset (IDD) dataset [model](https://drive.google.com/file/d/1edOzG9ikUButlE4B3au6T5munWbH9xnT/view?usp=sharing)
+* The pretrained DeeplabV3+ on BDD100K dataset [model](https://drive.google.com/file/d/1iMIqeu12jcT2CxBZjplKxXt843_seE3x/view?usp=sharing)
+* The pretrained DeeplabV3+ on Indian Driving Dataset (IDD) dataset [model](https://drive.google.com/file/d/1edOzG9ikUButlE4B3au6T5munWbH9xnT/view?usp=sharing)
 
 ## Contact
 [Razieh Kaviani Baghbaderani](http://web.eecs.utk.edu/~rkavian1/) (rkavian1@vols.utk.edu)
